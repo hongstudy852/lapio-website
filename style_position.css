@@ -1,29 +1,50 @@
 .first-element {
   width: 200px;
   height: 100px;
+  line-height: 60px;
   background-color: red;
   margin-left: 10px;
   padding-top: 15px;
   position: absolute;
   top: 10px;
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+  border-width: 20px;
+  border-color: green;
+  border-style: solid;
 }
 
 .second-element {
   width: 200px;
   height: 100px;
+  line-height: 60px;
   background-color: yellow;
   padding-top: 15px;
   position: absolute;
   top: 10px;
   left: 260px;
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+  border-width: 20px;
+  border-color: red;
+  border-style: solid;
 }
 
 .third-element {
   width: 200px;
   height: 100px;
+  line-height: 60px;
   background-color: green;
   padding-top: 15px;
   position: absolute;
   top: 10px;
   left: 500px;
+  font-color: blue;
+  text-transform: uppercase;
+  text-align: center;
+  border-width: 20px;
+  border-color: yellow;
+  border-style: solid;
 }
