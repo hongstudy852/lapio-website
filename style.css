@@ -1,4 +1,4 @@
-* {
+body {
   color: orange;
 }
 .red {
@@ -13,4 +13,16 @@
 .purple {
   color: purple;
 }
-  
+.text1 {
+  max-width: 50em;
+  width: 80%;
+  margin: 30px auto;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #555;
+  line-height: 1.5;
+}
+.highlight {
+  background: #eee;
+  padding: 1px 2px;
+  vertical-align: text-bottom;
+}  
